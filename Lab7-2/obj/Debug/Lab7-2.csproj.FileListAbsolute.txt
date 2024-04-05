@@ -1,0 +1,7 @@
+C:\Users\Koposova1.NIZHEGORODSMETA\Desktop\Самостоятельная работа 4\Lab7-1\Lab7-2\bin\Debug\Lab7-2.exe.config
+C:\Users\Koposova1.NIZHEGORODSMETA\Desktop\Самостоятельная работа 4\Lab7-1\Lab7-2\bin\Debug\Lab7-2.exe
+C:\Users\Koposova1.NIZHEGORODSMETA\Desktop\Самостоятельная работа 4\Lab7-1\Lab7-2\bin\Debug\Lab7-2.pdb
+C:\Users\Koposova1.NIZHEGORODSMETA\Desktop\Самостоятельная работа 4\Lab7-1\Lab7-2\obj\Debug\Lab7-2.csproj.AssemblyReference.cache
+C:\Users\Koposova1.NIZHEGORODSMETA\Desktop\Самостоятельная работа 4\Lab7-1\Lab7-2\obj\Debug\Lab7-2.csproj.CoreCompileInputs.cache
+C:\Users\Koposova1.NIZHEGORODSMETA\Desktop\Самостоятельная работа 4\Lab7-1\Lab7-2\obj\Debug\Lab7-2.exe
+C:\Users\Koposova1.NIZHEGORODSMETA\Desktop\Самостоятельная работа 4\Lab7-1\Lab7-2\obj\Debug\Lab7-2.pdb
